@@ -1,0 +1,6 @@
+command and conquer 3, Command & Conquer 3, cnc3, audio issue, проблема со звуком, звук
+
+Right click on link > properties > target:
+добавьте до ярлика \ add to link = "-ui" 
+
+"*path\Command and Conquer 3 - Tiberium Wars\CNC3.exe" -ui
